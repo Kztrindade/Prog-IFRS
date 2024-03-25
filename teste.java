@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 import java.util.Random;
 
-public class Teste {
+public class teste {
 
     static int MAXIMO_TEMPO_EXECUCAO = 65535;
 
