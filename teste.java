@@ -3,9 +3,7 @@ import java.util.Scanner;
 import java.util.Random;
 
 public class teste {
-
     static int MAXIMO_TEMPO_EXECUCAO = 65535;
-
     static int n_processos = 3;
 
     public static void main(String[] args) {
